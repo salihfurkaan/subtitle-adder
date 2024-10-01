@@ -58,5 +58,3 @@ def translate_subtitles(input_file='subtitles.srt', output_file='subtitles_trans
     log(f"The given video was successfully translated to {target_language} and saved at {output_file} !")
 
     return output_file
-
-#translate_subtitles(input_file='subtitles.srt', output_file='subtitles_tr.srt', target_language='turkish')
