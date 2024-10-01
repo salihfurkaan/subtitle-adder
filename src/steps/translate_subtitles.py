@@ -1,6 +1,6 @@
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
-from languages.languages import lang_code_dict
-from models.models import TRANSLATION_MODEL_NAME as model_name
+from src.languages.languages import lang_code_dict
+from src.models.models import TRANSLATION_MODEL_NAME as model_name
 from logging import log
 
 tokenizer = AutoTokenizer.from_pretrained(model_name)

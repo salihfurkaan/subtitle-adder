@@ -1,9 +1,9 @@
-import steps
-import steps.audio_to_text
-import steps.create_subtitles
-import steps.embed_subtitles
-import steps.translate_subtitles
-import steps.video_to_audio
+import src.steps
+import src.steps.audio_to_text
+import src.steps.create_subtitles
+import src.steps.embed_subtitles
+import src.steps.translate_subtitles
+import src.steps.video_to_audio
 
 
 def add_subtitle(video_path,

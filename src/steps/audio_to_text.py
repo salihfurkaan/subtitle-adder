@@ -1,5 +1,5 @@
 import whisper
-from models.models import TRANSCRIBER_MODEL as transcriber
+from src.models.models import TRANSCRIBER_MODEL as transcriber
 
 def convert_to_text(
         path: str,
