@@ -33,8 +33,10 @@ Subtitle Adder is an intelligent tool that simplifies the process of adding subt
 
 1. Install the repository
 
-``` git clone https://github.com/salihfurkaan/subtitle-adder.git ```
-``` cd subtitle-adder ```
+```bash
+git clone https://github.com/salihfurkaan/subtitle-adder.git 
+cd subtitle-adder
+```
 
 2. Define the required variables in run.py
 
