@@ -1,6 +1,6 @@
-# 🎬 Subtitle Adder: Automate Subtitles with NLP & Python 🗣️💻
+# 🎬 AutoSub-CLI: Automate Subtitles with NLP & Python 🗣️💻
 
-Subtitle Adder is an intelligent tool that simplifies the process of adding subtitles to videos by leveraging the power of Natural Language Processing (NLP) and audio extraction. This project automatically transcribes audio from a video file and translates it into multiple languages using state-of-the-art models, making it perfect for global content distribution.
+AutoSub-CLI is an intelligent tool that simplifies the process of adding subtitles to videos by leveraging the power of Natural Language Processing (NLP) and audio extraction. This project automatically transcribes audio from a video file and translates it into multiple languages using state-of-the-art models, making it perfect for global content distribution.
 
 <br>
 
